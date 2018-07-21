@@ -2,6 +2,7 @@ import os
 import random
 import sys
 
+#renklerin tümüne ulaşmak için https://github.com/mete5050/renkler
 normal = '\033[0m'
 kirmizi= '\033[31m'
 pmavi = '\033[96m'#p --> parlak
