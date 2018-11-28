@@ -102,7 +102,7 @@ while (calis):
         os.system("clear")
         x1=0
         while(x1<len(cozulmus)):
-            sys.stdout.write(sari+str(cozulmus[x1]))
+            sys.stdout.write(psari+str(cozulmus[x1]))
             x1+=1
         
         
